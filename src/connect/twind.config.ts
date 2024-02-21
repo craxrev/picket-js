@@ -1,4 +1,5 @@
 const config = {
+  preflight: false,
   darkMode: "class",
   important: true,
   // fake hash function to transform class names to keep them unique.
